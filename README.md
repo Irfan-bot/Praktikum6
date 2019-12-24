@@ -1,8 +1,9 @@
 ## Praktikum 6
 
-Membuat package dan modul berdasarkan tugas sebelumnya
+# Membuat package dan modul berdasarkan tugas sebelumnya
 
 1.Buat package terlebih dahulu
+
 2.Buat modul 
 
 •daftar_nilai.py untuk tambah_data, ubah_data, hapus_data, dan cari_data 
